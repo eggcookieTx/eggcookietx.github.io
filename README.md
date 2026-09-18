@@ -37,5 +37,22 @@ For questions, contact: `service@digitaltwinsapps.com`
 
 ---
 
+# Last One Standing
+
+A real-time battle-royale party game. Thirty players drop into the same quick game, one wrong move gets you eliminated, and the last one standing wins.
+
+## What it does
+- Live 30-player elimination matches across a rotating catalog of quick games
+- Daily challenges, streaks, seasons, and leaderboards
+- Friends, head-to-head records, and match replays
+- Free to play with ad support (banner and optional rewarded ads; no forced full-screen ads)
+
+## Privacy
+Privacy policy: [Last One Standing Privacy Policy](https://eggcookietx.github.io/last-one-standing-privacy-policy/)
+
+For questions, contact: `service@digitaltwinsapps.com`
+
+---
+
 ## Notes
 This repository is used as the developer website root for app verification and `app-ads.txt` hosting.
